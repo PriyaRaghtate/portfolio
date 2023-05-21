@@ -3,6 +3,11 @@ body{
     text-align: center;
     color: #40514e;
 }
+.mountain{
+            width: 100%;
+            height: auto;
+        }
+    
 hr{
     border: dotted #9ff8f8 6px;
     border-bottom: none;
