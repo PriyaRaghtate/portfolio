@@ -127,3 +127,22 @@ p{
     padding: 10px 0;
     margin-bottom: 10px;
   }
+ /* Media Queries */
+        @media (max-width: 768px) {
+            .h {
+                font-size: 60px;
+            }
+            
+            .btc, .tpc {
+                display: none;
+            }
+            
+            .p {
+                font-size: 30px;
+            }
+            
+            .skill-r, .profile, .msg {
+                width: 90%;
+                max-width: 100%;
+            }
+        }
